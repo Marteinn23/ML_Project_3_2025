@@ -1,0 +1,4 @@
+
+😎 = "big money"
+
+print(😎)
