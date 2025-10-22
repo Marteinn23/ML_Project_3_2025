@@ -1,4 +1,0 @@
-
-😎 = "big money"
-
-print(😎)
